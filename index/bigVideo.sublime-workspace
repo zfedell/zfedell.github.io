@@ -1,0 +1,1188 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"tidy",
+				"HTMLPrettify: Set `node` Path"
+			],
+			[
+				"ht",
+				"HTMLPrettify"
+			],
+			[
+				"htm",
+				"HTMLPrettify"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"h",
+				"HTMLPrettify"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"snipp",
+				"Snippet: html"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/zfedell/zfedell.github.io/index/bigVideo.html",
+		"/Users/zfedell/workspace/ne-underwriting/resources/css/underwriter.css",
+		"/Users/zfedell/workspace/ne-underwriting/app/modules/UnderwriterLayout/nfsPortal/borrower/templates/borrowerCreate.html",
+		"/Users/zfedell/workspace/drupal/drupal/sites/all/themes/noesis_bootstrap/gardens/default/bootstrap-ext.css",
+		"/Users/zfedell/workspace/drupal/drupal/sites/all/themes/noesis_bootstrap/css/noesis-theme.css",
+		"/Users/zfedell/workspace/bootstrap/src/noesis/bootstrap/projects/directives/details/neProjectDetails.html",
+		"/Users/zfedell/workspace/bootstrap/src/noesis/bootstrap/projects/templates/proposalDownloadModal.html",
+		"/Users/zfedell/workspace/bootstrap/src/main/js/noesis/bootstrap/projects/directives/addProjectPage.html",
+		"/Users/zfedell/workspace/bootstrap/src/noesis/bootstrap/branding/directives/brandingSettings.html",
+		"/Users/zfedell/workspace/bootstrap/src/noesis/bootstrap/financeApp/templates/financeAside.html",
+		"/Users/zfedell/workspace/bootstrap/src/main/js/noesis/bootstrap/projects/directives/details/tabs/neSummaryPage.html",
+		"/Users/zfedell/workspace/bootstrap/src/neBootstrap/PaymentsOptions/neFinancePaymentOptions.html",
+		"/Users/zfedell/workspace/bootstrap/src/neBootstrap/PaymentsOptions/neSelectFinancePaymentOption.html",
+		"/Users/zfedell/workspace/bootstrap/src/noesis/bootstrap/financeApp/templates/saveAndFinish.html",
+		"/Users/zfedell/workspace/bootstrap/src/noesis/bootstrap/financeApp/templates/fourthStep.html",
+		"/Users/zfedell/workspace/bootstrap/src/noesis/bootstrap/quote/templates/neFinancePrequal.html",
+		"/Users/zfedell/workspace/bootstrap/src/main/js/noesis/bootstrap/projects/templates/financingLeaseEstimates.html",
+		"/Users/zfedell/workspace/bootstrap/src/neBootstrap/FinanceTerms/neEditFinanceTerms.html",
+		"/Users/zfedell/workspace/directives/src/main/js/noesis/directives/neUsersWithAccessList.html",
+		"/Users/zfedell/workspace/bootstrap/src/main/js/noesis/bootstrap/projects/directives/details/neProjectDetails.html",
+		"/Users/zfedell/workspace/directives/src/noesis/directives/neUsersWithAccessList.html",
+		"/Users/zfedell/workspace/bootstrap/src/noesis/bootstrap/pro/templates/neExecutiveBusinessCaseCreate.html",
+		"/Users/zfedell/workspace/bootstrap/src/main/js/noesis/bootstrap/projects/templates/financingEPL.html",
+		"/Users/zfedell/workspace/drupal/drupal/sites/all/themes/noesis_bootstrap/gardens/default/bootstrap.min.css",
+		"/Users/zfedell/workspace/bootstrap/src/noesis/bootstrap/facility/directives/neFacilityDetailsEdit.html",
+		"/Users/zfedell/workspace/bootstrap/src/noesis/bootstrap/savingsEstimator/directives/neCreateEstimate.html",
+		"/Users/zfedell/workspace/bootstrap/src/noesis/bootstrap/projects/ECM/directive/neIncentive.html",
+		"/Users/zfedell/workspace/bootstrap/src/noesis/bootstrap/projects/directives/addECM.html",
+		"/Users/zfedell/workspace/bootstrap/src/noesis/bootstrap/projects/templates/financingLeaseEstimates.html",
+		"/Users/zfedell/workspace/bootstrap/src/noesis/bootstrap/projects/design/neAddECMWizard.html",
+		"/Users/zfedell/workspace/bootstrap/src/noesis/bootstrap/projects/directives/details/tabs/neDetailsTab.html",
+		"/Users/zfedell/workspace/bootstrap/src/noesis/bootstrap/projects/directives/details/tabs/neSummaryPage.html",
+		"/Users/zfedell/workspace/bootstrap/src/noesis/bootstrap/financeApp/templates/firstStep.html",
+		"/Users/zfedell/workspace/bootstrap/src/noesis/bootstrap/financeApp/directives/neFinanceApp/neFinanceApp.html",
+		"/Users/zfedell/workspace/bootstrap/src/main/js/noesis/bootstrap/financeApp/templates/secondStep.html",
+		"/Users/zfedell/workspace/bootstrap/src/noesis/bootstrap/projects/directives/addProjectPage.html",
+		"/Users/zfedell/workspace/bootstrap/src/noesis/bootstrap/financeApp/templates/secondStep.html",
+		"/Users/zfedell/workspace/bootstrap/src/noesis/bootstrap/Entry.js",
+		"/Users/zfedell/workspace/bootstrap/src/main/js/noesis/bootstrap/financeApp/templates/firstStep.html",
+		"/Users/zfedell/workspace/bootstrap/src/main/js/noesis/bootstrap/financeApp/directives/neFinanceApp/neFinanceApp.html",
+		"/Users/zfedell/workspace/bootstrap/src/main/js/noesis/bootstrap/projects/controllers/projectDetailsController.js",
+		"/Users/zfedell/workspace/bootstrap/src/main/js/noesis/bootstrap/projects/controllers/projectPerformanceOptionsController.js",
+		"/Users/zfedell/workspace/bootstrap/src/main/js/noesis/bootstrap/projects/directives/details/tabs/neDetailsTab.html",
+		"/Users/zfedell/workspace/bootstrap/src/main/js/noesis/bootstrap/quote/templates/carousel.html",
+		"/Users/zfedell/workspace/bootstrap/Gruntfile.js",
+		"/Users/zfedell/workspace/bootstrap/built/generated/neWebServices/Trackpoints/TrackpointService.js",
+		"/Users/zfedell/workspace/NoesisEnergy.github.io/Bootswatch.html",
+		"/Users/zfedell/workspace/directives/src/main/js/noesis/directives/tabsWidget.html",
+		"/Users/zfedell/workspace/bootstrap/src/main/js/noesis/bootstrap/sandbox/sandbox.html",
+		"/Users/zfedell/workspace/bootstrap/src/main/js/noesis/bootstrap/facility/templates/neFacilityDetails.html",
+		"/Users/zfedell/workspace/bootstrap/src/main/js/noesis/bootstrap/community/directives/neTrendingWidget.html",
+		"/Users/zfedell/workspace/bootstrap/src/main/js/noesis/bootstrap/projects/design/neProjectECMDetails.html",
+		"/Users/zfedell/workspace/bootstrap/src/main/js/noesis/bootstrap/Entry.js",
+		"/Users/zfedell/workspace/ne-underwriting/app/css/underwriter.css",
+		"/Users/zfedell/workspace/drupal/drupal/sites/all/themes/noesis_bootstrap/js/carousel.js",
+		"/Users/zfedell/workspace/ne-underwriting/app/css/noesis-paper.min.css",
+		"/Users/zfedell/workspace/drupal/drupal/sites/all/modules/noesis/noesis_glossary/jcarousellite_1.0.1.js",
+		"/Users/zfedell/workspace/ne-webServices/src/main/js/noesis/serviceProxies/StreamSearch/UserPublicProfile.js",
+		"/Users/zfedell/workspace/drupal/drupal/sites/all/themes/noesis_bootstrap/css/noesis-animations.css",
+		"/Users/zfedell/workspace/bootstrap/src/main/js/noesis/bootstrap/invitation/templates/noInvitation.html",
+		"/Users/zfedell/workspace/NoesisEnergy.github.io/index.html",
+		"/Users/zfedell/workspace/ne-underwriting/app/modules/UberUnderwriter/directives/neNoesisScore/neNoesisScore.html",
+		"/Users/zfedell/workspace/drupal/drupal/sites/all/themes/noesis_bootstrap/templates/html.tpl.php",
+		"/Users/zfedell/workspace/ne-underwriting/app/index.html",
+		"/Users/zfedell/workspace/drupal/database-dump.mysql",
+		"/Users/zfedell/workspace/gwt/webapp-noesis/src/main/webapp/index.html",
+		"/Users/zfedell/workspace/ne-underwriting/app/css/noesis.min.css",
+		"/Users/zfedell/workspace/ne-underwriting/app/modules/UnderwriterLayout/common/directives/neNavbar/neNavbar.html",
+		"/Users/zfedell/workspace/bootstrap/INSTALL.md",
+		"/Users/zfedell/workspace/ne-underwriting/app/modules/UberUnderwriter/directives/neDeveloperProfile/neDeveloperProfile.html",
+		"/Users/zfedell/workspace/bootstrap/src/main/js/noesis/bootstrap/projects/templates/financingCompetitiveEstimates.html",
+		"/Users/zfedell/workspace/bootstrap/src/main/js/noesis/bootstrap/community/directives/neUserLeaderboardListing.html",
+		"/Users/zfedell/workspace/bootstrap/src/main/js/noesis/bootstrap/community/directives/neProjectsPage.html",
+		"/Users/zfedell/workspace/directives/src/main/js/noesis/directives/neAboutNoesis.html",
+		"/Users/zfedell/workspace/bootstrap/src/main/js/noesis/bootstrap/financeApp/templates/financeAside.html",
+		"/Users/zfedell/workspace/bootstrap/src/main/js/noesis/bootstrap/financeApp/templates/thirdStep.html",
+		"/Users/zfedell/workspace/bootstrap/src/main/js/noesis/bootstrap/quote/templates/neFinancePrequal.html",
+		"/Users/zfedell/workspace/bootstrap/src/main/js/noesis/bootstrap/pro/templates/neLandingColumnProjects.html",
+		"/Users/zfedell/workspace/bootstrap/src/main/js/noesis/bootstrap/users/templates/neLandingContent.html",
+		"/Users/zfedell/workspace/drupal/drupal/sites/all/themes/noesis_bootstrap/templates/header_menu.php",
+		"/Users/zfedell/workspace/ne-underwriting/app/modules/UberUnderwriter/directives/neRfqLenderResponse/neRfqLenderResponse.html",
+		"/Users/zfedell/workspace/bootstrap/src/main/js/noesis/bootstrap/financeEstimator/templates/list.html",
+		"/Users/zfedell/workspace/bootstrap/src/main/js/noesis/bootstrap/savingsEstimator/directives/neEstimatesList.html",
+		"/Users/zfedell/workspace/directives/src/main/js/noesis/directives/neProjectsTableSummaryView.html",
+		"/Users/zfedell/workspace/ne-underwriting/app/modules/UberUnderwriter/directives/neBorrowerList/neBorrowerList.html",
+		"/Users/zfedell/workspace/ne-underwriting/app/modules/UberUnderwriter/directives/neDealDocumentsList/neDealDocumentsList.html",
+		"/Users/zfedell/workspace/ne-underwriting/app/modules/UberUnderwriter/directives/neDealsList/neDealsList.html",
+		"/Users/zfedell/workspace/ne-underwriting/app/modules/UberUnderwriter/directives/neProfileDocumentsList/neProfileDocumentsList.html",
+		"/Users/zfedell/workspace/ne-underwriting/app/modules/UberUnderwriter/directives/neRfqDocumentsList/neRfqDocumentsList.html",
+		"/Users/zfedell/workspace/ne-underwriting/app/modules/UberUnderwriter/directives/neRfqsList/neRfqsList.html",
+		"/Users/zfedell/workspace/ne-underwriting/app/modules/UberUnderwriter/directives/neUnderwriterAuditRecordsList/neUnderwriterAuditRecordsList.html",
+		"/Users/zfedell/workspace/ne-underwriting/app/modules/UberUnderwriter/directives/neDeveloperList/neDeveloperList.html",
+		"/Users/zfedell/workspace/ne-underwriting/app/modules/UnderwriterLayout/nfsPortal/developer/templates/developerList.html",
+		"/Users/zfedell/workspace/ne-underwriting/app/modules/UberUnderwriter/directives/neBorrowerProfile/neBorrowerProfile.html",
+		"/Users/zfedell/workspace/ne-underwriting/app/modules/UberUnderwriter/directives/neProfileFinanceSettings/neProfileFinanceSettings.html",
+		"/Users/zfedell/workspace/ne-underwriting/app/modules/UberUnderwriter/directives/neDealQuotes/neDealQuotes.html",
+		"/Users/zfedell/Desktop/about-noesis.html",
+		"/Users/zfedell/workspace/bootstrap/src/main/js/noesis/bootstrap/common/templates/3IA.html",
+		"/Users/zfedell/workspace/NoesisEnergy.github.io/CSS.html",
+		"/Users/zfedell/workspace/NoesisEnergy.github.io/style-cheatsheet.html",
+		"/Users/zfedell/Desktop/bootstrap-edits.css",
+		"/Users/zfedell/Desktop/bootstrap-edits.html",
+		"/Users/zfedell/workspace/bootstrap/src/main/js/noesis/bootstrap/projects/directives/details/tabs/neFinancing.html",
+		"/Users/zfedell/workspace/drupal/drupal/sites/all/themes/noesis/page--pro--dashboard.tpl.php",
+		"/Users/zfedell/workspace/drupal/drupal/sites/all/themes/noesis/gardens/aedg.noesisenergy.com/header_menu.php",
+		"/Users/zfedell/workspace/drupal/drupal/sites/all/themes/noesis/gardens/aem.noesis.com/header_menu.php",
+		"/Users/zfedell/workspace/drupal/drupal/sites/all/themes/noesis/gardens/aepenergy.noesisenergy.com/header_menu.php",
+		"/Users/zfedell/workspace/drupal/drupal/sites/all/themes/noesis/gardens/akfgroup.noesisenergy.com/header_menu.php",
+		"/Users/zfedell/workspace/drupal/drupal/sites/all/themes/noesis/gardens/archwayled.noesis.com/header_menu.php",
+		"/Users/zfedell/workspace/bootstrap/src/main/js/noesis/bootstrap/financeEstimator/templates/details.html",
+		"/Users/zfedell/workspace/bootstrap/node_modules/karma/node_modules/connect/lib/public/style.css",
+		"/Users/zfedell/workspace/NoesisEnergy.github.io/noesis-theme.css",
+		"/Users/zfedell/workspace/bootstrap/src/main/js/noesis/bootstrap/sandbox/docusign/docusign.html",
+		"/Users/zfedell/workspace/bootstrap/src/main/js/noesis/bootstrap/projects/directives/details/tabs/nePerformanceOptions.html",
+		"/Users/zfedell/workspace/bootstrap/src/main/js/noesis/bootstrap/quote/templates/neFinancePrequalification.html",
+		"/Users/zfedell/workspace/ne-underwriting/app/modules/UnderwriterLayout/nfsPortal/developer/templates/developerIndividual.html",
+		"/Users/zfedell/workspace/ne-underwriting/app/modules/UberUnderwriter/directives/neAmericanBusinessInfo/neAmericanBusinessInfo.html",
+		"/Users/zfedell/workspace/ne-underwriting/app/modules/UberUnderwriter/directives/neDealBrief/neDealBrief.html",
+		"/Users/zfedell/workspace/bootstrap/src/main/js/noesis/bootstrap/financeApp/templates/fourthStep.html",
+		"/Users/zfedell/workspace/bootstrap/src/main/js/noesis/bootstrap/financeApp/templates/saveAndFinish.html",
+		"/Users/zfedell/workspace/bootstrap/src/main/js/noesis/bootstrap/projects/directives/projectDeleted.html",
+		"/Users/zfedell/workspace/ne-webServices/src/main/js/noesis/statefullServices/directives/neLoginModal.html",
+		"/Users/zfedell/workspace/bootstrap/src/main/js/noesis/bootstrap/projects/templates/financeTermsModalTemplate.html",
+		"/Users/zfedell/workspace/ne-underwriting/app/modules/UberUnderwriter/directives/neRfqNoesisResponse/neRfqNoesisResponse.html",
+		"/Users/zfedell/workspace/ne-underwriting/app/modules/UberUnderwriter/directives/neRfqDealBrief/neRfqDealBrief.html",
+		"/Users/zfedell/workspace/ne-underwriting/app/modules/UberUnderwriter/directives/neAmericanBusinessInfoSynopsis/neAmericanBusinessInfoSynopsis.html",
+		"/Users/zfedell/workspace/bootstrap/src/main/js/noesis/bootstrap/portfolio/templates/neSharePortfolioEdit.html",
+		"/Users/zfedell/workspace/bootstrap/src/main/js/noesis/bootstrap/projects/templates/neShareProjectCoWorker.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"*html",
+			"*css",
+			"*html",
+			"*css",
+			"*CSS",
+			"*html",
+			"*css",
+			"*html",
+			"*js",
+			"*",
+			"*html",
+			"*css",
+			"*html",
+			"*css",
+			"*html",
+			"*css",
+			"*html",
+			"*css",
+			"*html",
+			"*js",
+			"*php",
+			"*",
+			"*html",
+			"*",
+			"*js",
+			"*",
+			"*html",
+			"*css",
+			"*html",
+			"*js",
+			"*",
+			"*html",
+			"*css",
+			"*html",
+			"*css",
+			"*html",
+			"*",
+			"*html",
+			"*",
+			"*php",
+			"*html",
+			"*",
+			"*css",
+			"*",
+			"/Users/zfedell/workspace/ne-underwriting",
+			"ne-underwriting",
+			"*",
+			"*html",
+			"*css",
+			"*html",
+			"*",
+			"*css",
+			"*html",
+			"*js",
+			"*html",
+			"*css",
+			"*",
+			"*html",
+			"*css",
+			"*html",
+			"*css",
+			"*html",
+			"*css",
+			"*html",
+			"*css",
+			"*php",
+			"*css",
+			"*html",
+			"*css",
+			"*html",
+			"*",
+			"*html",
+			"*css",
+			"",
+			"*html",
+			"*css",
+			"*html",
+			"*css",
+			"*",
+			"*html",
+			"*css",
+			"*html",
+			"*",
+			"*html",
+			"*css",
+			"*html",
+			"*css",
+			"*html",
+			"*css",
+			"*html",
+			"*css",
+			"*html",
+			"*css",
+			"*html",
+			"*css",
+			"*html",
+			"*css",
+			"csshtml",
+			"*html",
+			"*css",
+			"*html",
+			"*css",
+			"*html",
+			"*css",
+			"*html",
+			"*",
+			"*html",
+			"*HTML",
+			"*",
+			"*html",
+			"*css",
+			"*html",
+			"*css",
+			"*html",
+			"*css",
+			"*html",
+			"*css",
+			"*html",
+			"*css",
+			"*html",
+			"*",
+			"*html",
+			"*css",
+			"*html",
+			"*css",
+			"*html",
+			"*css",
+			"*html"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"New Borrower",
+			".nav-tabs>li>a",
+			"nav-tabs>li>a",
+			"nav>li>a",
+			"4",
+			"Next steps",
+			"Create",
+			"&nbsp;Create",
+			"Propose",
+			"propose",
+			"Noesis helps you keep the conversation going by automatically sending",
+			"Adjust your presentation date based on",
+			"Follow-up",
+			"create",
+			"fa-check-circle",
+			"table-hover",
+			".table-hover",
+			"ECM",
+			"lost increm",
+			"Payback",
+			"Lifecycle Savings",
+			"to offer the",
+			"the follow flexible payment",
+			"the follow flexible payment plans",
+			"plans",
+			"equipment life",
+			"years equipment life",
+			"assumes",
+			"No Payments",
+			"Payoff in first 6-months",
+			"payoff in the first",
+			"Project Cost includes equipment and installation costs",
+			"3rd-Party Investment Analysis",
+			"When you are ready to finish",
+			"3IA",
+			"3ia",
+			"3IA",
+			"Lowest payment option",
+			"Conserve capital to operate your business with our lowest monthly payment option",
+			"Pay off in 12 months with no interest",
+			"Pay off in 12 months with no interest.",
+			"Conserve capital to operate your business",
+			"EXAMPLE CASH FLOW ANALYSIS",
+			"EXAMPLE CASH FLOW ANALYSIS\nEXAMPLE CASH FLOW ANALYSIS",
+			"Resend Invitation",
+			"per month",
+			"Enable 0% financing for proposals under $100k",
+			"fa-clock-o",
+			"container",
+			"well",
+			"EXAMPLE NOESIS FINANCING CASH FLOW",
+			".btn-success.active",
+			"0% for 12 months",
+			"NO INT NO PMT",
+			"Lowest ",
+			"SAME",
+			"Same",
+			"Same as cash",
+			"SAME AS CASH",
+			"NO INT NO PMT",
+			"0% for 12 months",
+			"0%",
+			"same as cash",
+			"view&",
+			"Choose a promo package to load terms below",
+			"no payments",
+			"View&nbsp;",
+			"View&nbsp;Another&nbsp;Plan&nbsp;",
+			"Resend",
+			"Resend Invitation",
+			"customer",
+			"Resend Invitation",
+			"fa fa-clock-o",
+			"<i class=",
+			"Conserve capital to operate your business",
+			"REDUCED",
+			"REDUSED",
+			"reduced",
+			"Conserve capital to operate your business",
+			"Pay off in 12 months with no interest",
+			"Pay off in 12 months with no interest.",
+			"Standard payment terms apply ",
+			"1",
+			"Standard payment terms apply ",
+			"2",
+			"1",
+			"Standard payment terms apply",
+			"Standard payment terms apply ",
+			"type",
+			"choose existing",
+			"choose",
+			"or",
+			"Incentives collected up front before financing ",
+			"addECMIncentivesLabel",
+			"Incentives collected up front before financing will automatically ",
+			"savingsEstSector",
+			"street",
+			"street address",
+			"Enter a short",
+			"http:",
+			"Promotional",
+			"new!",
+			"text-",
+			"media-object",
+			"Win your customers' trust by offering a performance ",
+			"incentive",
+			"add incentive",
+			"addECMModalTitle",
+			"incentive",
+			"Add an Incentive",
+			"detailsTabHeaderText",
+			"SummaryPageExampleCashFlow",
+			"dropdown",
+			"or",
+			"addECMModalTitle",
+			"addECMModalTitl",
+			"addNewProjectFormHeader",
+			"performance options",
+			"em-margin-right",
+			"em-margin-right-5",
+			"min-height:550px",
+			"First, tell us a few things about your business",
+			"Financing",
+			"Scenarios",
+			"Performance Options",
+			"Scenarios",
+			"Financing",
+			"Performance Options"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"text-success",
+			"1094px",
+			"1.888.200.3468",
+			"col-sm-",
+			"col-lg",
+			"fa fa-angle-right",
+			"fa fa-angle-down",
+			"fa-angle-right",
+			"fa-angle-down",
+			"dotted",
+			"10AE99",
+			"text-right",
+			"text-center",
+			"#e4f9f5",
+			"text-center",
+			"style=\"background-color:#DEF1ED\"",
+			"style=\"#DEF1ED\"",
+			"font-size:18px",
+			"",
+			"dotted",
+			"psECM",
+			"ne-prop=\"",
+			"checkbox",
+			"ne-alert type",
+			" ne-hint=\"",
+			" ne-placeholder=\"",
+			"fa fa-university",
+			"Get a quote",
+			"https://noesisimg.s3.amazonaws.com",
+			"fa fa-spinner fa-spin'",
+			"fa fa-spinner fa-spin\"",
+			"fa fa-spinner",
+			"fa fa-search",
+			"fa-fw",
+			" ",
+			"https:",
+			"class=\"em-margin-y\"",
+			"fa fa-pencil ne-13",
+			"https:",
+			"width: 100%",
+			"margin: 0",
+			"ff9900",
+			"ne-11",
+			"left;",
+			"ne-10",
+			"https:",
+			"width: 100%",
+			"margin: 0",
+			"https:",
+			"text-decoration: none !important;",
+			"https:",
+			"text-decoration: none !important;",
+			"https:",
+			"width: 100%",
+			"margin: 0",
+			"https:",
+			"width: 100%",
+			"margin: 0 ",
+			"width: 100%",
+			"margin: 0",
+			"https:",
+			"text-decoration: none !important;",
+			"https:",
+			"580",
+			"#18bc9c",
+			"fa-thumbs-o-up",
+			"lg",
+			"https:",
+			"fa-2x",
+			"fa fa-",
+			"width: 100%",
+			"margin: 0",
+			"https:",
+			"text-decoration: none !important;",
+			"500",
+			"https:",
+			"text-decoration: none !important;",
+			"580",
+			"text-decoration: none !important;"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 27.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "bigVideo.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"under",
+				"ne-underwriting/resources/css/underwriter.css"
+			],
+			[
+				"bootstr",
+				"noesis_bootstrap/gardens/default/bootstrap-ext.css"
+			],
+			[
+				"saveand",
+				"bootstrap/src/noesis/bootstrap/financeApp/templates/saveAndFinish.html"
+			],
+			[
+				"nefin",
+				"bootstrap/src/neBootstrap/PaymentsOptions/neFinancePaymentOptions.html"
+			],
+			[
+				"noesis-theme",
+				"drupal/drupal/sites/all/themes/noesis_bootstrap/css/noesis-theme.css"
+			],
+			[
+				"neexec",
+				"bootstrap/src/noesis/bootstrap/pro/templates/neExecutiveBusinessCaseCreate.html"
+			],
+			[
+				"",
+				"bootstrap/src/neBootstrap/PaymentsOptions/neSelectFinancePaymentOption.html"
+			],
+			[
+				"neprojectde",
+				"bootstrap/src/noesis/bootstrap/projects/directives/details/neProjectDetails.html"
+			],
+			[
+				"neproject",
+				"bootstrap/src/main/js/noesis/bootstrap/projects/directives/details/neProjectDetails.html"
+			],
+			[
+				"neince",
+				"bootstrap/src/noesis/bootstrap/projects/ECM/directive/neIncentive.html"
+			],
+			[
+				"first",
+				"bootstrap/src/noesis/bootstrap/financeApp/templates/firstStep.html"
+			],
+			[
+				"secondste",
+				"bootstrap/src/main/js/noesis/bootstrap/financeApp/templates/secondStep.html"
+			],
+			[
+				"second",
+				"bootstrap/src/noesis/bootstrap/financeApp/templates/secondStep.html"
+			],
+			[
+				"nefi",
+				"bootstrap/src/noesis/bootstrap/financeApp/directives/neFinanceApp/neFinanceApp.html"
+			],
+			[
+				"firststep",
+				"bootstrap/src/noesis/bootstrap/financeApp/templates/firstStep.html"
+			],
+			[
+				"nefinanceapp",
+				"bootstrap/src/noesis/bootstrap/financeApp/directives/neFinanceApp/neFinanceApp.html"
+			],
+			[
+				"entry",
+				"bootstrap/src/noesis/bootstrap/Entry.js"
+			],
+			[
+				"carous",
+				"bootstrap/src/main/js/noesis/bootstrap/quote/templates/carousel.html"
+			],
+			[
+				"noesis-pap",
+				"ne-underwriting/app/css/noesis-paper.min.css"
+			],
+			[
+				"carousel.js",
+				"drupal/drupal/sites/all/themes/noesis_bootstrap/js/carousel.js"
+			],
+			[
+				"carou",
+				"drupal/drupal/sites/all/themes/noesis_bootstrap/js/carousel.js"
+			],
+			[
+				"financelea",
+				"bootstrap/src/main/js/noesis/bootstrap/projects/templates/financingLeaseEstimates.html"
+			],
+			[
+				"noinvitation.html",
+				"bootstrap/src/main/js/noesis/bootstrap/invitation/templates/noInvitation.html"
+			],
+			[
+				"index",
+				"NoesisEnergy.github.io/index.html"
+			],
+			[
+				"index.",
+				"NoesisEnergy.github.io/index.html"
+			],
+			[
+				"financinglease",
+				"bootstrap/src/main/js/noesis/bootstrap/projects/templates/financingLeaseEstimates.html"
+			],
+			[
+				"nesummm",
+				"bootstrap/src/main/js/noesis/bootstrap/projects/directives/details/tabs/neSummaryPage.html"
+			],
+			[
+				"ne-underwriting.min.css",
+				"ne-underwriting/app/css/noesis.min.css"
+			],
+			[
+				"bootstrap.min",
+				"drupal/drupal/sites/all/themes/noesis_bootstrap/gardens/default/bootstrap.min.css"
+			],
+			[
+				"bootstrap-ext",
+				"drupal/drupal/sites/all/themes/noesis_bootstrap/gardens/default/bootstrap-ext.css"
+			],
+			[
+				"noesis-them",
+				"drupal/drupal/sites/all/themes/noesis_bootstrap/css/noesis-theme.css"
+			],
+			[
+				"thirdst",
+				"bootstrap/src/main/js/noesis/bootstrap/financeApp/templates/thirdStep.html"
+			],
+			[
+				"secondstep",
+				"bootstrap/src/main/js/noesis/bootstrap/financeApp/templates/secondStep.html"
+			],
+			[
+				"header_",
+				"noesis_bootstrap/templates/header_menu.php"
+			],
+			[
+				"bootstrap-ex",
+				"drupal/drupal/sites/all/themes/noesis_bootstrap/gardens/default/bootstrap-ext.css"
+			],
+			[
+				"noesis-th",
+				"drupal/drupal/sites/all/themes/noesis_bootstrap/css/noesis-theme.css"
+			],
+			[
+				"header_menu.php",
+				"noesis_bootstrap/templates/header_menu.php"
+			],
+			[
+				"list",
+				"bootstrap/src/main/js/noesis/bootstrap/financeEstimator/templates/list.html"
+			],
+			[
+				"financeas",
+				"bootstrap/src/main/js/noesis/bootstrap/financeApp/templates/financeAside.html"
+			],
+			[
+				"financepre",
+				"bootstrap/src/main/js/noesis/bootstrap/financeApp/directives/neFinanceApp/neFinanceApp.html"
+			],
+			[
+				"firstste",
+				"bootstrap/src/main/js/noesis/bootstrap/financeApp/templates/firstStep.html"
+			],
+			[
+				"firstst",
+				"bootstrap/src/main/js/noesis/bootstrap/financeApp/templates/firstStep.html"
+			],
+			[
+				"noesis-",
+				"drupal/drupal/sites/all/themes/noesis_bootstrap/css/noesis-theme.css"
+			],
+			[
+				"bootstrap-",
+				"drupal/drupal/sites/all/themes/noesis_bootstrap/gardens/default/bootstrap-ext.css"
+			],
+			[
+				"3",
+				"bootstrap/src/main/js/noesis/bootstrap/common/templates/3IA.html"
+			],
+			[
+				"bootstrap-e",
+				"drupal/drupal/sites/all/themes/noesis_bootstrap/gardens/default/bootstrap-ext.css"
+			],
+			[
+				"header",
+				"noesis_bootstrap/templates/header_menu.php"
+			],
+			[
+				"bootstrap.min.css",
+				"noesis_bootstrap/gardens/default/bootstrap.min.css"
+			],
+			[
+				"neprojectdetails",
+				"bootstrap/src/main/js/noesis/bootstrap/projects/directives/details/neProjectDetails.html"
+			],
+			[
+				"3ia",
+				"bootstrap/src/main/js/noesis/bootstrap/common/templates/3IA.html"
+			],
+			[
+				"neperformance",
+				"bootstrap/src/main/js/noesis/bootstrap/projects/directives/details/tabs/nePerformanceOptions.html"
+			],
+			[
+				"entry.",
+				"bootstrap/src/main/js/noesis/bootstrap/Entry.js"
+			],
+			[
+				"developerind",
+				"ne-underwriting/app/modules/UnderwriterLayout/nfsPortal/developer/templates/developerIndividual.html"
+			],
+			[
+				"noesis",
+				"noesis_bootstrap/css/noesis-theme.css"
+			],
+			[
+				"underw",
+				"ne-underwriting/app/css/underwriter.css"
+			],
+			[
+				"bootstrap",
+				"NoesisEnergy.github.io/bootstrap.min.css"
+			],
+			[
+				"page-nb",
+				"noesis_bootstrap/css/page-nb.css"
+			],
+			[
+				"noesis-the",
+				"noesis_bootstrap/css/noesis-theme.css"
+			],
+			[
+				"financingles",
+				"bootstrap/src/main/js/noesis/bootstrap/projects/templates/financingLeaseEstimates.html"
+			],
+			[
+				"list.html",
+				"bootstrap/src/main/js/noesis/bootstrap/financeEstimator/templates/list.html"
+			],
+			[
+				"facilitylistitemtemplate",
+				"bootstrap/src/main/js/noesis/bootstrap/portfolio/templates/facilityListItemTemplate.html"
+			],
+			[
+				"ne-select",
+				"noesis_bootstrap/css/directive-ne-select.css"
+			],
+			[
+				"nerfqnoesisresponse.html",
+				"ne-underwriting/app/modules/UberUnderwriter/directives/neRfqNoesisResponse/neRfqNoesisResponse.html"
+			],
+			[
+				"icons",
+				"NoesisEnergy.github.io/icons.html"
+			],
+			[
+				"financinglea",
+				"bootstrap/src/main/js/noesis/bootstrap/projects/templates/financingLeaseEstimates.html"
+			],
+			[
+				"american",
+				"ne-underwriting/app/modules/UberUnderwriter/directives/neAmericanBusinessInfo/neAmericanBusinessInfo.html"
+			],
+			[
+				"business",
+				"ne-underwriting/app/modules/UberUnderwriter/directives/neAmericanBusinessInfoSynopsis/neAmericanBusinessInfoSynopsis.html"
+			],
+			[
+				"neauth",
+				"bootstrap/src/main/js/noesis/bootstrap/session/directives/neAuthBar.html"
+			],
+			[
+				"nerfqnoe",
+				"ne-underwriting/app/modules/UberUnderwriter/directives/neRfqNoesisResponse/neRfqNoesisResponse.html"
+			],
+			[
+				"bootstra",
+				"noesis_bootstrap/gardens/default/bootstrap-ext.css"
+			],
+			[
+				"boots",
+				"NoesisEnergy.github.io/Bootswatch.html"
+			],
+			[
+				"noesis-tehme",
+				"NoesisEnergy.github.io/noesis-theme.css"
+			],
+			[
+				"boote",
+				"drupal/drupal/sites/all/themes/noesis_bootstrap/gardens/default/bootstrap-ext.css"
+			],
+			[
+				"ne-commen",
+				"noesis_bootstrap/css/directive-ne-comment-thread.css"
+			],
+			[
+				"projec",
+				"bootstrap/src/main/js/noesis/bootstrap/projects/controllers/projectFinancingController.js"
+			],
+			[
+				"nehighchartshelper.js",
+				"directives/src/main/js/noesis/directives/neHighchartsHelper.js"
+			],
+			[
+				"nenoesisrfq",
+				"ne-underwriting/app/modules/UberUnderwriter/directives/neRfqNoesisResponse/neRfqNoesisResponse.html"
+			],
+			[
+				"noesis-m",
+				"noesis_bootstrap/css/noesis-marketing.css"
+			],
+			[
+				"noesis-ma",
+				"NoesisEnergy.github.io/noesis-marketing.css"
+			],
+			[
+				"prpp",
+				"integrations/Archie/dashGen/code/presentations/prpProposalAging/prpProposalAgingTable.html"
+			],
+			[
+				"noesis-paper",
+				"ne-underwriting/app/css/noesis-paper.min.css"
+			],
+			[
+				"tabs",
+				"directives/src/main/js/noesis/directives/tabsWidget.html"
+			],
+			[
+				"nesidebarprofile.html",
+				"bootstrap/src/main/js/noesis/bootstrap/navigation/directives/neSidebarProfile.html"
+			],
+			[
+				"nesidebarsubmenu.html",
+				"bootstrap/src/main/js/noesis/bootstrap/navigation/directives/neSidebarSubMenu.html"
+			],
+			[
+				"nesidebarlink.html",
+				"bootstrap/src/main/js/noesis/bootstrap/navigation/directives/neSidebarLink.html"
+			],
+			[
+				"nedocument",
+				"bootstrap/src/main/js/noesis/bootstrap/projects/directives/details/tabs/neDocuments.html"
+			],
+			[
+				"nesidebarnav.html",
+				"bootstrap/src/main/js/noesis/bootstrap/navigation/directives/neSidebarNav.html"
+			],
+			[
+				"neprojectstablesummaryview.html",
+				"directives/src/main/js/noesis/directives/neProjectsTableSummaryView.html"
+			],
+			[
+				"neprojects",
+				"directives/src/main/js/noesis/directives/neProjectsTable.html"
+			],
+			[
+				"neesi",
+				"bootstrap/src/main/js/noesis/bootstrap/savingsEstimator/directives/neEstimatesList.html"
+			],
+			[
+				"bootst",
+				"NoesisEnergy.github.io/bootstrap.min.css"
+			],
+			[
+				"directive-ne-es",
+				"noesis_bootstrap/css/directive-ne-estimator-tool.css"
+			],
+			[
+				"nedocum",
+				"bootstrap/src/main/js/noesis/bootstrap/projects/directives/details/tabs/neDocuments.html"
+			],
+			[
+				"necompare",
+				"bootstrap/src/main/js/noesis/bootstrap/projects/directives/details/tabs/neCompare.html"
+			],
+			[
+				"nerfq",
+				"ne-underwriting/app/modules/UberUnderwriter/directives/neRfqLenderResponse/neRfqLenderResponse.html"
+			],
+			[
+				"nerfqle",
+				"ne-underwriting/app/modules/UberUnderwriter/directives/neRfqLenderResponse/neRfqLenderResponse.html"
+			],
+			[
+				"boot",
+				"NoesisEnergy.github.io/Bootswatch.html"
+			],
+			[
+				"noesis-mark",
+				"NoesisEnergy.github.io/noesis-marketing.css"
+			],
+			[
+				"nerfqno",
+				"ne-underwriting/app/modules/UberUnderwriter/directives/neRfqNoesisResponse/neRfqNoesisResponse.html"
+			],
+			[
+				"nerfqlen",
+				"ne-underwriting/app/modules/UberUnderwriter/directives/neRfqLenderResponse/neRfqLenderResponse.html"
+			],
+			[
+				"nedeal",
+				"ne-underwriting/app/modules/UberUnderwriter/directives/neDealQuotes/neDealQuotes.html"
+			],
+			[
+				"nefinan",
+				"ne-underwriting/app/modules/UberUnderwriter/directives/neFinancialInfo/neFinancialInfo.html"
+			],
+			[
+				"icon",
+				"NoesisEnergy.github.io/icons.html"
+			],
+			[
+				"ne-selec",
+				"noesis_bootstrap/css/directive-ne-select.css"
+			],
+			[
+				"noesis-pp",
+				"ne-underwriting/app/css/noesis-paper.min.css"
+			],
+			[
+				"nesele",
+				"directives/src/main/js/noesis/directives/neSelect.html"
+			],
+			[
+				"neprofile",
+				"ne-underwriting/app/modules/UberUnderwriter/directives/neProfileDocumentsList/neProfileDocumentsList.html"
+			],
+			[
+				"nedealquote",
+				"ne-underwriting/app/modules/UberUnderwriter/directives/neDealQuotes/neDealQuotes.html"
+			],
+			[
+				"uberu",
+				"ne-underwriting/app/modules/UberUnderwriter/UberUnderwriterModule.js"
+			],
+			[
+				"ne-under",
+				"ne-underwriting/app/ne-underwriting.deps.js"
+			],
+			[
+				"neselect.html",
+				"directives/src/main/js/noesis/directives/neSelect.html"
+			],
+			[
+				"directive-ne-select.css",
+				"noesis_bootstrap/css/directive-ne-select.css"
+			],
+			[
+				"deps.",
+				"ne-underwriting/node_modules/grunt-closure-tools/test/expected/deps.js"
+			],
+			[
+				"rfq",
+				"ne-underwriting/app/modules/UberUnderwriter/directives/neRfqQuote/neRfqQuote.html"
+			],
+			[
+				"marking",
+				"noesis_bootstrap/css/noesis-marketing.css"
+			],
+			[
+				"nerfqdo",
+				"ne-underwriting/app/modules/UberUnderwriter/directives/neRfqDocumentsList/neRfqDocumentsList.html"
+			],
+			[
+				"nedeald",
+				"ne-underwriting/app/modules/UberUnderwriter/directives/neDealDocumentsList/neDealDocumentsList.html"
+			],
+			[
+				"branding",
+				"NoesisEnergy.github.io/branding.html"
+			],
+			[
+				"neproj",
+				"bootstrap/src/main/js/noesis/bootstrap/projects/directives/details/neProjectDetails.html"
+			],
+			[
+				"neprojec",
+				"bootstrap/src/main/js/noesis/bootstrap/projects/directives/details/neProjectDetails.html"
+			],
+			[
+				"neproje",
+				"bootstrap/src/main/js/noesis/bootstrap/projects/directives/details/neProjectDetails.html"
+			],
+			[
+				"noesis-lib-application.css",
+				"gwt/lib-application/src/main/java/com/noesis/public/noesis-lib-application.css"
+			],
+			[
+				"noesis-p",
+				"ne-underwriting/app/css/noesis-paper.min.css"
+			],
+			[
+				"landing.htm",
+				"bootstrap/src/main/js/noesis/bootstrap/pro/templates/landing.html"
+			],
+			[
+				"neper",
+				"bootstrap/src/main/js/noesis/bootstrap/projects/directives/details/tabs/nePerformanceOptions.html"
+			],
+			[
+				"nerf",
+				"ne-underwriting/app/modules/UberUnderwriter/directives/neRfqQuote/neRfqQuote.html"
+			],
+			[
+				"ne-sele",
+				"noesis_bootstrap/css/directive-ne-select.css"
+			],
+			[
+				"neface",
+				"bootstrap/src/main/js/noesis/bootstrap/facility/directives/neFacilityDetailsEdit.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/teaching/untitled.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 449.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 308.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
