@@ -69,12 +69,12 @@ h6 {
 }
 
 .btn-primary {
-    border-color: #1DB954;
+    border-color: #52c963;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #fff;
-    background-color: #1DB954;
+    background-color: #52c963;
 }
 
 .btn-primary:hover,
@@ -108,25 +108,25 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-    border-color: #1DB954;
-    background-color: #1DB954;
+    border-color: #52c963;
+    background-color: #52c963;
 }
 
 .btn-primary .badge {
-    color: #1DB954;
+    color: #52c963;
     background-color: #fff;
 }
 
 .btn-xl {
     padding: 20px 40px;
-    border-color: #1DB954;
+    border-color: #52c963;
     border-radius: 3px;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 18px;
     font-weight: 700;
     color: #fff;
-    background-color: #1DB954;
+    background-color: #52c963;
 }
 
 .btn-xl:hover,
@@ -134,9 +134,9 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl:active,
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
-    border-color: #52c963;
+    border-color: #1DB954;
     color: #fff;
-    background-color: #52c963;
+    background-color: #1DB954;
 }
 
 .btn-xl:active,
@@ -160,12 +160,12 @@ fieldset[disabled] .btn-xl:active,
 .btn-xl.disabled.active,
 .btn-xl[disabled].active,
 fieldset[disabled] .btn-xl.active {
-    border-color: #1DB954;
-    background-color: #1DB954;
+    border-color: #52c963;
+    background-color: #52c963;
 }
 
 .btn-xl .badge {
-    color: #1DB954;
+    color: #52c963;
     background-color: #fff;
 }
 
@@ -183,7 +183,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-    color: #1DB954;
+    color: #52c963;
 }
 
 .navbar-default .navbar-collapse {
@@ -191,8 +191,8 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-toggle {
-    border-color: #1DB954;
-    background-color: #1DB954;
+    border-color: #52c963;
+    background-color: #52c963;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
@@ -201,7 +201,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-    background-color: #1DB954;
+    background-color: #52c963;
 }
 
 .navbar-default .nav li a {
@@ -215,19 +215,19 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
     outline: 0;
-    color: #1DB954;
+    color: #52c963;
 }
 
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
     color: #fff;
-    background-color: #1DB954;
+    background-color: #52c963;
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
     color: #fff;
-    background-color: #52c963;
+    background-color: #1DB954;
 }
 
 @media(min-width:768px) {
@@ -653,7 +653,7 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url(../img/map-image.png);
+    background-image: url(../img/map-image.jpg);
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -680,7 +680,7 @@ section#contact .form-group textarea.form-control {
 }
 
 section#contact .form-control:focus {
-    border-color: #1DB954;
+    border-color: #52c963;
     box-shadow: none;
 }
 
@@ -758,7 +758,7 @@ ul.social-buttons li a {
 ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
-    background-color: #1DB954;
+    background-color: #52c963;
 }
 
 .btn:focus,
@@ -846,12 +846,12 @@ ul.social-buttons li a:active {
 
 ::-moz-selection {
     text-shadow: none;
-    background: #1DB954;
+    background: #52c963;
 }
 
 ::selection {
     text-shadow: none;
-    background: #1DB954;
+    background: #52c963;
 }
 
 img::selection {
@@ -863,5 +863,5 @@ img::-moz-selection {
 }
 
 body {
-    webkit-tap-highlight-color: #1DB954;
+    webkit-tap-highlight-color: #52c963;
 }
